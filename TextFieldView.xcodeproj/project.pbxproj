@@ -13,6 +13,7 @@
 		CE333E082810705F00EAB677 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE333E062810705F00EAB677 /* Main.storyboard */; };
 		CE333E0A2810706100EAB677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE333E092810706100EAB677 /* Assets.xcassets */; };
 		CE333E0D2810706100EAB677 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE333E0B2810706100EAB677 /* LaunchScreen.storyboard */; };
+		CE333E15281071E600EAB677 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE333E14281071E600EAB677 /* TextFieldView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE333E092810706100EAB677 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE333E0C2810706100EAB677 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE333E0E2810706100EAB677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE333E14281071E600EAB677 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CE333E002810705F00EAB677 /* AppDelegate.swift */,
 				CE333E022810705F00EAB677 /* SceneDelegate.swift */,
 				CE333E042810705F00EAB677 /* ViewController.swift */,
+				CE333E14281071E600EAB677 /* TextFieldView.swift */,
 				CE333E062810705F00EAB677 /* Main.storyboard */,
 				CE333E092810706100EAB677 /* Assets.xcassets */,
 				CE333E0B2810706100EAB677 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				CE333E052810705F00EAB677 /* ViewController.swift in Sources */,
 				CE333E012810705F00EAB677 /* AppDelegate.swift in Sources */,
+				CE333E15281071E600EAB677 /* TextFieldView.swift in Sources */,
 				CE333E032810705F00EAB677 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
